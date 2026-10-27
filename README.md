@@ -4,7 +4,7 @@ Monte Carlo simulation of five dice games. For each game I calculate the **expec
 the game **100,000 times** in Python and check whether the simulated average agrees with the theory using a
 **95% confidence interval**.
 
-Built as practice for probability and expected-value questions that come up in quantitative trading interviews.
+Built as practice for probability and expected-value.
 
 ![Convergence of the simulation mean to the expected value](images/convergence.png)
 
